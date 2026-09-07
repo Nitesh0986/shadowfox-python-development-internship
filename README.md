@@ -1,3 +1,5 @@
+My Python Development Internship projects and tasks completed during the ShadowFox internship, covering Beginner, Intermediate, and Advanced levels.
+
 shadowfox-python-development-internship/
 │
 ├── Beginner-Task/
